@@ -15,7 +15,7 @@ public class Gun : MonoBehaviour
 
     public void Shoot()
     {
-        Debug.Log("Shot Gun!")
+        Debug.Log("Shot Gun!");
     }
 
 }
