@@ -9,14 +9,14 @@ MonoBehaviour:
   m_GameObject: {fileID: 0}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 0}
-  m_Name: Pistol basic
+  m_Script: {fileID: 11500000, guid: ec1066b5775b5d04587f8892267c5277, type: 3}
+  m_Name: Pistol
   m_EditorClassIdentifier: Assembly-CSharp::GunData
   name: PM
   damage: 30
   maxDistance: 100
-  currentAmmo: 15
-  magSize: 15
-  fireRate: 360
+  currentAmmo: 12
+  magSize: 12
+  fireRate: 260
   reloadTime: 1
   reloading: 0
