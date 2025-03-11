@@ -1,0 +1,11 @@
+Model Information:
+* title:	Rusty metal floor texture
+* source:	https://sketchfab.com/3d-models/rusty-metal-floor-texture-0652ff4830fe44e2bcc6809a9f5f7d6a
+* author:	patspet (https://sketchfab.com/patspet)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Rusty metal floor texture" (https://sketchfab.com/3d-models/rusty-metal-floor-texture-0652ff4830fe44e2bcc6809a9f5f7d6a) by patspet (https://sketchfab.com/patspet) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)

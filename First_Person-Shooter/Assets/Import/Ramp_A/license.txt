@@ -1,0 +1,11 @@
+Model Information:
+* title:	Ramp A
+* source:	https://sketchfab.com/3d-models/ramp-a-985a5cef2b1241908bfa380ec69a6400
+* author:	PSYCHOPOMP (https://sketchfab.com/Psychopomp-Games)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Ramp A" (https://sketchfab.com/3d-models/ramp-a-985a5cef2b1241908bfa380ec69a6400) by PSYCHOPOMP (https://sketchfab.com/Psychopomp-Games) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)

@@ -1,0 +1,11 @@
+Model Information:
+* title:	SCP-3398
+* source:	https://sketchfab.com/3d-models/scp-3398-73455400b42c4414afc5fcab3a4e2d9d
+* author:	WendyShadowGaming (https://sketchfab.com/WendyShadowGaming)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "SCP-3398" (https://sketchfab.com/3d-models/scp-3398-73455400b42c4414afc5fcab3a4e2d9d) by WendyShadowGaming (https://sketchfab.com/WendyShadowGaming) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)

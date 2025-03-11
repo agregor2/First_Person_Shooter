@@ -1,0 +1,11 @@
+Model Information:
+* title:	Hightpoly Barell game ready
+* source:	https://sketchfab.com/3d-models/hightpoly-barell-game-ready-4c1e9ec837104d839b712a4b8a6d7859
+* author:	Desolation Forge (https://sketchfab.com/Desolation_Forge)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Hightpoly Barell game ready" (https://sketchfab.com/3d-models/hightpoly-barell-game-ready-4c1e9ec837104d839b712a4b8a6d7859) by Desolation Forge (https://sketchfab.com/Desolation_Forge) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)

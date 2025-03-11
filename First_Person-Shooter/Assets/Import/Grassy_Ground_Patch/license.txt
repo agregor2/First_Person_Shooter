@@ -1,0 +1,11 @@
+Model Information:
+* title:	Grassy Ground Patch
+* source:	https://sketchfab.com/3d-models/grassy-ground-patch-f7cc57b9876d4f759867ac286589d510
+* author:	MamieTysane (https://sketchfab.com/MamieTysane)
+
+Model License:
+* license type:	CC-BY-NC-4.0 (http://creativecommons.org/licenses/by-nc/4.0/)
+* requirements:	Author must be credited. No commercial use.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Grassy Ground Patch" (https://sketchfab.com/3d-models/grassy-ground-patch-f7cc57b9876d4f759867ac286589d510) by MamieTysane (https://sketchfab.com/MamieTysane) licensed under CC-BY-NC-4.0 (http://creativecommons.org/licenses/by-nc/4.0/)

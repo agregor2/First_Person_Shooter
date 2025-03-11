@@ -1,0 +1,11 @@
+Model Information:
+* title:	Lov Poly Grass
+* source:	https://sketchfab.com/3d-models/lov-poly-grass-79b653bd3f4b470faf3ca5cfa16a4130
+* author:	dannhen88 (https://sketchfab.com/dannhen88)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Lov Poly Grass" (https://sketchfab.com/3d-models/lov-poly-grass-79b653bd3f4b470faf3ca5cfa16a4130) by dannhen88 (https://sketchfab.com/dannhen88) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
